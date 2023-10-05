@@ -1,0 +1,5 @@
+無法執行請下載安裝nRF Command Line Tools
+https://www.nordicsemi.com/Products/Development-tools/nrf-command-line-tools/download
+
+執行中出現錯誤請參考文件4.2章節回傳碼
+nRF_Command_Line_Tools_v1.4.pdf
