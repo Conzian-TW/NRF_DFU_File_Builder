@@ -3,3 +3,5 @@
 *.ind
 *.d
 *.o
+.DS_Store
+.codegraph/
